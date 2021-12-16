@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "877747090633",
+    "project_id": "ar-city-ea6b1",
+    "storage_bucket": "ar-city-ea6b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877747090633:android:00e693c943a83efb008918",
+        "android_client_info": {
+          "package_name": "com.mobilegarage.mobilegarage_mechanics_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877747090633-jvfdaam9np65q2voac7e9485fo91o3qg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWjy_nZwA5-p-Maa4ojNuqaRwXh5tN4-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877747090633-jvfdaam9np65q2voac7e9485fo91o3qg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
